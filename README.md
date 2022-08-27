@@ -32,12 +32,9 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 <br />
+<br/>
 
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lovelanai&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Github-stats">
-</p>
-
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/lovelanai?cardType=level-alternate&theme=gotham)](https://git.io/awesome-stats-card)
 
 
 <!--
