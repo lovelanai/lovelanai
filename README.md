@@ -32,9 +32,8 @@
 <br />
 <br/>
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/lovelanai?cardType=level-alternate&theme=gotham)](https://git.io/awesome-stats-card)
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="center" width="100%" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 <!--
 **lovelanai/lovelanai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
