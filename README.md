@@ -6,9 +6,6 @@
 
 ### I'm a Front End Developer from Gothenburg Sweden
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-
-
 <br />
 
 
@@ -34,9 +31,9 @@
 
 <br />
 <br/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/lovelanai?cardType=level-alternate&theme=gotham)](https://git.io/awesome-stats-card)
-
 
 <!--
 **lovelanai/lovelanai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
