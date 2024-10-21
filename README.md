@@ -5,14 +5,11 @@
 ## Hi there 🌼
 
 ### I'm a Front End Developer from Gothenburg Sweden
+<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500"/>
 
 <br />
 
-
-  
-
-## Stacks ⚡
-
+### Stacks ⚡
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -29,11 +26,11 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-<br />
+<br/>
 <br/>
 
 
-<img align="center" width="100%" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
 <!--
 **lovelanai/lovelanai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
